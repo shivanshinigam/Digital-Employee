@@ -254,3 +254,4 @@ The behavior layer is fully portable to other LLMs.
 
 ---
 
+<img width="1440" height="816" alt="Screenshot 2026-01-05 at 9 47 20 PM" src="https://github.com/user-attachments/assets/6e073cb3-9cb2-4983-bcdc-9f54bd9dfe7e" />
