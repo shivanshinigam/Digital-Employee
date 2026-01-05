@@ -2,7 +2,12 @@
 
 ## Digital Employee Button Integration
 
-![Interface Preview](./assets/interface-preview.png)
+<div align="center">
+  <img src="./assets/interface-preview.png" alt="Interface Preview" width="90%">
+  <p><i><b>Digital Employee:</b> Seamlessly blending data analysis, SQL learning, and professional communication.</i></p>
+</div>
+
+---
 
 This project provides a simple way to integrate a "Digital Employee" button into your web application. The button is styled with a green theme and opens a specific agent URL in a new tab when clicked.
 
