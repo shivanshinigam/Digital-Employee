@@ -3,7 +3,7 @@
 ## Digital Employee Button Integration
 
 <div align="center">
-  <img src="./assets/interface-preview.png" alt="Interface Preview" width="90%">
+  <img src="./assets/digital-employee-button.png" alt="Digital Employee Branding" width="90%">
   <p><i><b>Digital Employee:</b> Seamlessly blending data analysis, SQL learning, and professional communication.</i></p>
 </div>
 
